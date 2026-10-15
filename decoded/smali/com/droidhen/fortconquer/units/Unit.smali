@@ -151,7 +151,7 @@
     iput v7, p0, Lcom/droidhen/fortconquer/units/Unit;->mSelectedLink:I
 
     .line 84
-    const/16 v0, 0x14
+    const/16 v0, 0x18
 
     new-array v0, v0, [I
 
@@ -240,6 +240,22 @@
 
     aput v2, v0, v1
 
+    const/16 v1, 0x14
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x15
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x16
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x17
+
+    aput v6, v0, v1
+
     iput-object v0, p0, Lcom/droidhen/fortconquer/units/Unit;->sShadowOffsetY:[I
 
     .line 91
@@ -257,7 +273,7 @@
     iput-object v0, p0, Lcom/droidhen/fortconquer/units/Unit;->mDetachUnitRunnable:Ljava/lang/Runnable;
 
     .line 473
-    const/16 v0, 0x14
+    const/16 v0, 0x18
 
     new-array v0, v0, [I
 
@@ -346,6 +362,22 @@
 
     aput v5, v0, v1
 
+    const/16 v1, 0x14
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x15
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x16
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x17
+
+    aput v5, v0, v1
+
     iput-object v0, p0, Lcom/droidhen/fortconquer/units/Unit;->sUnitPosOffsetY:[I
 
     .line 1382
@@ -417,7 +449,7 @@
     iput v4, p0, Lcom/droidhen/fortconquer/units/Unit;->mSelectedLink:I
 
     .line 84
-    const/16 v0, 0x14
+    const/16 v0, 0x18
 
     new-array v0, v0, [I
 
@@ -506,6 +538,22 @@
 
     aput v2, v0, v1
 
+    const/16 v1, 0x14
+
+    aput v7, v0, v1
+
+    const/16 v1, 0x15
+
+    aput v7, v0, v1
+
+    const/16 v1, 0x16
+
+    aput v7, v0, v1
+
+    const/16 v1, 0x17
+
+    aput v7, v0, v1
+
     iput-object v0, p0, Lcom/droidhen/fortconquer/units/Unit;->sShadowOffsetY:[I
 
     .line 91
@@ -523,7 +571,7 @@
     iput-object v0, p0, Lcom/droidhen/fortconquer/units/Unit;->mDetachUnitRunnable:Ljava/lang/Runnable;
 
     .line 473
-    const/16 v0, 0x14
+    const/16 v0, 0x18
 
     new-array v0, v0, [I
 
@@ -609,6 +657,22 @@
     aput v6, v0, v1
 
     const/16 v1, 0x13
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x14
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x15
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x16
+
+    aput v6, v0, v1
+
+    const/16 v1, 0x17
 
     aput v6, v0, v1
 

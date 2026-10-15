@@ -109,22 +109,22 @@
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitMotion;->sQuadChestCenter:[Lcom/droidhen/fortconquer/units/Vector2;
 
     .line 47
-    new-array v0, v2, [Lcom/droidhen/fortconquer/units/Vector2;
+    new-array v0, v1, [Lcom/droidhen/fortconquer/units/Vector2;
 
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitMotion;->sDragonHeadPosition:[Lcom/droidhen/fortconquer/units/Vector2;
 
     .line 48
-    new-array v0, v2, [Lcom/droidhen/fortconquer/units/Vector2;
+    new-array v0, v1, [Lcom/droidhen/fortconquer/units/Vector2;
 
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitMotion;->sDragonHeadCenter:[Lcom/droidhen/fortconquer/units/Vector2;
 
     .line 49
-    new-array v0, v2, [Lcom/droidhen/fortconquer/units/Vector2;
+    new-array v0, v1, [Lcom/droidhen/fortconquer/units/Vector2;
 
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitMotion;->sDragonChestPosition:[Lcom/droidhen/fortconquer/units/Vector2;
 
     .line 50
-    new-array v0, v2, [Lcom/droidhen/fortconquer/units/Vector2;
+    new-array v0, v1, [Lcom/droidhen/fortconquer/units/Vector2;
 
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitMotion;->sDragonChestCenter:[Lcom/droidhen/fortconquer/units/Vector2;
 
@@ -3031,7 +3031,7 @@
     .line 159
     const/4 v4, 0x2
 
-    const/4 v5, 0x4
+    const/16 v5, 0x8
 
     const/16 v6, 0x20
 
@@ -3076,7 +3076,7 @@
     .locals 7
 
     .prologue
-    const/4 v6, 0x4
+    const/16 v6, 0x8
 
     const/4 v5, 0x1
 

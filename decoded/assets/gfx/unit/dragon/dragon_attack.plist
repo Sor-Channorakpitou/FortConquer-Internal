@@ -7,7 +7,7 @@
 		<key>width</key>
 		<integer>1024</integer>
 		<key>height</key>
-		<integer>512</integer>
+		<integer>2048</integer>
 	</dict>
 	<key>frames</key>
 	<dict>
@@ -22,7 +22,7 @@
 			<key>height</key>
 			<integer>36</integer>
 			<key>offsetX</key>
-			<real>-33</real>
+			<real>-33.0</real>
 			<key>offsetY</key>
 			<real>-64.5</real>
 			<key>originalWidth</key>
@@ -60,9 +60,9 @@
 			<key>height</key>
 			<integer>95</integer>
 			<key>offsetX</key>
-			<real>-4</real>
+			<real>-4.0</real>
 			<key>offsetY</key>
-			<real>1</real>
+			<real>1.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -79,9 +79,9 @@
 			<key>height</key>
 			<integer>109</integer>
 			<key>offsetX</key>
-			<real>2</real>
+			<real>2.0</real>
 			<key>offsetY</key>
-			<real>3</real>
+			<real>3.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -100,7 +100,7 @@
 			<key>offsetX</key>
 			<real>-4.5</real>
 			<key>offsetY</key>
-			<real>3</real>
+			<real>3.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -117,7 +117,7 @@
 			<key>height</key>
 			<integer>104</integer>
 			<key>offsetX</key>
-			<real>32</real>
+			<real>32.0</real>
 			<key>offsetY</key>
 			<real>7.5</real>
 			<key>originalWidth</key>
@@ -136,7 +136,7 @@
 			<key>height</key>
 			<integer>84</integer>
 			<key>offsetX</key>
-			<real>54</real>
+			<real>54.0</real>
 			<key>offsetY</key>
 			<real>3.5</real>
 			<key>originalWidth</key>
@@ -155,9 +155,9 @@
 			<key>height</key>
 			<integer>80</integer>
 			<key>offsetX</key>
-			<real>2</real>
+			<real>2.0</real>
 			<key>offsetY</key>
-			<real>0</real>
+			<real>0.0</real>
 			<key>originalWidth</key>
 			<integer>300</integer>
 			<key>originalHeight</key>
@@ -174,7 +174,7 @@
 			<key>height</key>
 			<integer>77</integer>
 			<key>offsetX</key>
-			<real>2</real>
+			<real>2.0</real>
 			<key>offsetY</key>
 			<real>1.5</real>
 			<key>originalWidth</key>
@@ -193,9 +193,9 @@
 			<key>height</key>
 			<integer>76</integer>
 			<key>offsetX</key>
-			<real>3</real>
+			<real>3.0</real>
 			<key>offsetY</key>
-			<real>2</real>
+			<real>2.0</real>
 			<key>originalWidth</key>
 			<integer>300</integer>
 			<key>originalHeight</key>
@@ -233,7 +233,7 @@
 			<key>offsetX</key>
 			<real>-36.5</real>
 			<key>offsetY</key>
-			<real>10</real>
+			<real>10.0</real>
 			<key>originalWidth</key>
 			<integer>425</integer>
 			<key>originalHeight</key>
@@ -252,7 +252,7 @@
 			<key>offsetX</key>
 			<real>-66.5</real>
 			<key>offsetY</key>
-			<real>-15</real>
+			<real>-15.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -271,7 +271,7 @@
 			<key>offsetX</key>
 			<real>1.5</real>
 			<key>offsetY</key>
-			<real>-1</real>
+			<real>-1.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -326,7 +326,7 @@
 			<key>height</key>
 			<integer>122</integer>
 			<key>offsetX</key>
-			<real>38</real>
+			<real>38.0</real>
 			<key>offsetY</key>
 			<real>1.5</real>
 			<key>originalWidth</key>
@@ -383,9 +383,9 @@
 			<key>height</key>
 			<integer>95</integer>
 			<key>offsetX</key>
-			<real>-4</real>
+			<real>-4.0</real>
 			<key>offsetY</key>
-			<real>1</real>
+			<real>1.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -402,9 +402,9 @@
 			<key>height</key>
 			<integer>109</integer>
 			<key>offsetX</key>
-			<real>2</real>
+			<real>2.0</real>
 			<key>offsetY</key>
-			<real>3</real>
+			<real>3.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -423,7 +423,7 @@
 			<key>offsetX</key>
 			<real>-4.5</real>
 			<key>offsetY</key>
-			<real>3</real>
+			<real>3.0</real>
 			<key>originalWidth</key>
 			<integer>250</integer>
 			<key>originalHeight</key>
@@ -440,7 +440,7 @@
 			<key>height</key>
 			<integer>104</integer>
 			<key>offsetX</key>
-			<real>32</real>
+			<real>32.0</real>
 			<key>offsetY</key>
 			<real>7.5</real>
 			<key>originalWidth</key>
@@ -459,7 +459,7 @@
 			<key>height</key>
 			<integer>84</integer>
 			<key>offsetX</key>
-			<real>54</real>
+			<real>54.0</real>
 			<key>offsetY</key>
 			<real>3.5</real>
 			<key>originalWidth</key>
@@ -497,9 +497,9 @@
 			<key>height</key>
 			<integer>119</integer>
 			<key>offsetX</key>
-			<real>-37</real>
+			<real>-37.0</real>
 			<key>offsetY</key>
-			<real>-18</real>
+			<real>-18.0</real>
 			<key>originalWidth</key>
 			<integer>425</integer>
 			<key>originalHeight</key>
@@ -535,9 +535,9 @@
 			<key>height</key>
 			<integer>127</integer>
 			<key>offsetX</key>
-			<real>-23</real>
+			<real>-23.0</real>
 			<key>offsetY</key>
-			<real>-24</real>
+			<real>-24.0</real>
 			<key>originalWidth</key>
 			<integer>425</integer>
 			<key>originalHeight</key>
@@ -554,13 +554,469 @@
 			<key>height</key>
 			<integer>131</integer>
 			<key>offsetX</key>
-			<real>-52</real>
+			<real>-52.0</real>
 			<key>offsetY</key>
-			<real>-27</real>
+			<real>-27.0</real>
 			<key>originalWidth</key>
 			<integer>425</integer>
 			<key>originalHeight</key>
 			<integer>307</integer>
+		</dict>
+		<key>Light Dragon_attack_1_3.png</key>
+		<dict>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>512</integer>
+			<key>width</key>
+			<integer>243</integer>
+			<key>height</key>
+			<integer>122</integer>
+			<key>offsetX</key>
+			<real>2.5</real>
+			<key>offsetY</key>
+			<real>1.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Light Dragon_attack_1_5.png</key>
+		<dict>
+			<key>x</key>
+			<integer>244</integer>
+			<key>y</key>
+			<integer>512</integer>
+			<key>width</key>
+			<integer>172</integer>
+			<key>height</key>
+			<integer>122</integer>
+			<key>offsetX</key>
+			<real>38.0</real>
+			<key>offsetY</key>
+			<real>1.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Light Dragon_attack_1_2.png</key>
+		<dict>
+			<key>x</key>
+			<integer>417</integer>
+			<key>y</key>
+			<integer>512</integer>
+			<key>width</key>
+			<integer>243</integer>
+			<key>height</key>
+			<integer>119</integer>
+			<key>offsetX</key>
+			<real>1.5</real>
+			<key>offsetY</key>
+			<real>-1.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Light Dragon_attack_1_4.png</key>
+		<dict>
+			<key>x</key>
+			<integer>661</integer>
+			<key>y</key>
+			<integer>512</integer>
+			<key>width</key>
+			<integer>243</integer>
+			<key>height</key>
+			<integer>118</integer>
+			<key>offsetX</key>
+			<real>1.5</real>
+			<key>offsetY</key>
+			<real>-1.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Earth Dragon_attack_1_3.png</key>
+		<dict>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>635</integer>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>109</integer>
+			<key>offsetX</key>
+			<real>2.0</real>
+			<key>offsetY</key>
+			<real>3.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Poison Dragon_attack_1_3.png</key>
+		<dict>
+			<key>x</key>
+			<integer>221</integer>
+			<key>y</key>
+			<integer>635</integer>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>109</integer>
+			<key>offsetX</key>
+			<real>2.0</real>
+			<key>offsetY</key>
+			<real>3.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Storm Dragon_attack_1_3.png</key>
+		<dict>
+			<key>x</key>
+			<integer>442</integer>
+			<key>y</key>
+			<integer>635</integer>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>109</integer>
+			<key>offsetX</key>
+			<real>2.0</real>
+			<key>offsetY</key>
+			<real>3.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Earth Dragon_attack_1_4.png</key>
+		<dict>
+			<key>x</key>
+			<integer>663</integer>
+			<key>y</key>
+			<integer>635</integer>
+			<key>width</key>
+			<integer>219</integer>
+			<key>height</key>
+			<integer>105</integer>
+			<key>offsetX</key>
+			<real>-4.5</real>
+			<key>offsetY</key>
+			<real>3.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Poison Dragon_attack_1_4.png</key>
+		<dict>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>745</integer>
+			<key>width</key>
+			<integer>219</integer>
+			<key>height</key>
+			<integer>105</integer>
+			<key>offsetX</key>
+			<real>-4.5</real>
+			<key>offsetY</key>
+			<real>3.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Storm Dragon_attack_1_4.png</key>
+		<dict>
+			<key>x</key>
+			<integer>220</integer>
+			<key>y</key>
+			<integer>745</integer>
+			<key>width</key>
+			<integer>219</integer>
+			<key>height</key>
+			<integer>105</integer>
+			<key>offsetX</key>
+			<real>-4.5</real>
+			<key>offsetY</key>
+			<real>3.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Earth Dragon_attack_1_5.png</key>
+		<dict>
+			<key>x</key>
+			<integer>440</integer>
+			<key>y</key>
+			<integer>745</integer>
+			<key>width</key>
+			<integer>154</integer>
+			<key>height</key>
+			<integer>104</integer>
+			<key>offsetX</key>
+			<real>32.0</real>
+			<key>offsetY</key>
+			<real>7.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Poison Dragon_attack_1_5.png</key>
+		<dict>
+			<key>x</key>
+			<integer>595</integer>
+			<key>y</key>
+			<integer>745</integer>
+			<key>width</key>
+			<integer>154</integer>
+			<key>height</key>
+			<integer>104</integer>
+			<key>offsetX</key>
+			<real>32.0</real>
+			<key>offsetY</key>
+			<real>7.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Storm Dragon_attack_1_5.png</key>
+		<dict>
+			<key>x</key>
+			<integer>750</integer>
+			<key>y</key>
+			<integer>745</integer>
+			<key>width</key>
+			<integer>154</integer>
+			<key>height</key>
+			<integer>104</integer>
+			<key>offsetX</key>
+			<real>32.0</real>
+			<key>offsetY</key>
+			<real>7.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Earth Dragon_attack_1_2.png</key>
+		<dict>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>851</integer>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>95</integer>
+			<key>offsetX</key>
+			<real>-4.0</real>
+			<key>offsetY</key>
+			<real>1.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Poison Dragon_attack_1_2.png</key>
+		<dict>
+			<key>x</key>
+			<integer>221</integer>
+			<key>y</key>
+			<integer>851</integer>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>95</integer>
+			<key>offsetX</key>
+			<real>-4.0</real>
+			<key>offsetY</key>
+			<real>1.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Storm Dragon_attack_1_2.png</key>
+		<dict>
+			<key>x</key>
+			<integer>442</integer>
+			<key>y</key>
+			<integer>851</integer>
+			<key>width</key>
+			<integer>220</integer>
+			<key>height</key>
+			<integer>95</integer>
+			<key>offsetX</key>
+			<real>-4.0</real>
+			<key>offsetY</key>
+			<real>1.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Earth Dragon_attack_1_6.png</key>
+		<dict>
+			<key>x</key>
+			<integer>663</integer>
+			<key>y</key>
+			<integer>851</integer>
+			<key>width</key>
+			<integer>124</integer>
+			<key>height</key>
+			<integer>84</integer>
+			<key>offsetX</key>
+			<real>54.0</real>
+			<key>offsetY</key>
+			<real>3.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Light Dragon_attack_1_6.png</key>
+		<dict>
+			<key>x</key>
+			<integer>788</integer>
+			<key>y</key>
+			<integer>851</integer>
+			<key>width</key>
+			<integer>127</integer>
+			<key>height</key>
+			<integer>84</integer>
+			<key>offsetX</key>
+			<real>52.5</real>
+			<key>offsetY</key>
+			<real>3.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Poison Dragon_attack_1_6.png</key>
+		<dict>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>947</integer>
+			<key>width</key>
+			<integer>124</integer>
+			<key>height</key>
+			<integer>84</integer>
+			<key>offsetX</key>
+			<real>54.0</real>
+			<key>offsetY</key>
+			<real>3.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Storm Dragon_attack_1_6.png</key>
+		<dict>
+			<key>x</key>
+			<integer>125</integer>
+			<key>y</key>
+			<integer>947</integer>
+			<key>width</key>
+			<integer>124</integer>
+			<key>height</key>
+			<integer>84</integer>
+			<key>offsetX</key>
+			<real>54.0</real>
+			<key>offsetY</key>
+			<real>3.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Light Dragon_attack_1_1.png</key>
+		<dict>
+			<key>x</key>
+			<integer>250</integer>
+			<key>y</key>
+			<integer>947</integer>
+			<key>width</key>
+			<integer>105</integer>
+			<key>height</key>
+			<integer>39</integer>
+			<key>offsetX</key>
+			<real>-66.5</real>
+			<key>offsetY</key>
+			<real>-15.0</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Earth Dragon_attack_1_1.png</key>
+		<dict>
+			<key>x</key>
+			<integer>356</integer>
+			<key>y</key>
+			<integer>947</integer>
+			<key>width</key>
+			<integer>91</integer>
+			<key>height</key>
+			<integer>24</integer>
+			<key>offsetX</key>
+			<real>-65.5</real>
+			<key>offsetY</key>
+			<real>-14.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Poison Dragon_attack_1_1.png</key>
+		<dict>
+			<key>x</key>
+			<integer>448</integer>
+			<key>y</key>
+			<integer>947</integer>
+			<key>width</key>
+			<integer>91</integer>
+			<key>height</key>
+			<integer>24</integer>
+			<key>offsetX</key>
+			<real>-65.5</real>
+			<key>offsetY</key>
+			<real>-14.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
+		</dict>
+		<key>Storm Dragon_attack_1_1.png</key>
+		<dict>
+			<key>x</key>
+			<integer>540</integer>
+			<key>y</key>
+			<integer>947</integer>
+			<key>width</key>
+			<integer>91</integer>
+			<key>height</key>
+			<integer>24</integer>
+			<key>offsetX</key>
+			<real>-65.5</real>
+			<key>offsetY</key>
+			<real>-14.5</real>
+			<key>originalWidth</key>
+			<integer>250</integer>
+			<key>originalHeight</key>
+			<integer>125</integer>
 		</dict>
 	</dict>
 </dict>

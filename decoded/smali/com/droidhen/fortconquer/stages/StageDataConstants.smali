@@ -176,7 +176,7 @@
     sput v2, Lcom/droidhen/fortconquer/stages/StageDataConstants;->CATAPULT_ATTACK_STEP:F
 
     .line 73
-    const/16 v1, 0x14
+    const/16 v1, 0x18
 
     new-array v1, v1, [[F
 
@@ -349,6 +349,42 @@
     new-array v3, v4, [F
 
     fill-array-data v3, :array_13
+
+    aput-object v3, v1, v2
+
+    const/16 v2, 0x14
+
+    .line 95
+    new-array v3, v4, [F
+
+    fill-array-data v3, :array_1e
+
+    aput-object v3, v1, v2
+
+    const/16 v2, 0x15
+
+    .line 96
+    new-array v3, v4, [F
+
+    fill-array-data v3, :array_1f
+
+    aput-object v3, v1, v2
+
+    const/16 v2, 0x16
+
+    .line 97
+    new-array v3, v4, [F
+
+    fill-array-data v3, :array_20
+
+    aput-object v3, v1, v2
+
+    const/16 v2, 0x17
+
+    .line 98
+    new-array v3, v4, [F
+
+    fill-array-data v3, :array_21
 
     aput-object v3, v1, v2
 
@@ -746,6 +782,58 @@
     :array_13
     .array-data 4
         0x44480000    # 800.0f
+        0x423c0000    # 47.0f
+        0x41900000    # 18.0f
+        0x41f00000    # 30.0f
+        0x41000000    # 8.0f
+        0x0
+        0x40800000    # 4.0f
+        0x41100000    # 9.0f
+    .end array-data
+
+    .line 95
+    :array_1e
+    .array-data 4
+        0x44480000    # 800.0f  (Earth Dragon - clone Desert Dragon)
+        0x42300000    # 44.0f
+        0x41900000    # 18.0f
+        0x41f00000    # 30.0f
+        0x41000000    # 8.0f
+        0x0
+        0x40800000    # 4.0f
+        0x40800000    # 4.0f
+    .end array-data
+
+    .line 96
+    :array_1f
+    .array-data 4
+        0x443b8000    # 750.0f  (Light Dragon - clone Ice Dragon)
+        0x423c0000    # 47.0f
+        0x41900000    # 18.0f
+        0x41f00000    # 30.0f
+        0x41000000    # 8.0f
+        0x0
+        0x40800000    # 4.0f
+        0x40a00000    # 5.0f
+    .end array-data
+
+    .line 97
+    :array_20
+    .array-data 4
+        0x444e4000    # 825.0f  (Poison Dragon - clone Swamp Dragon)
+        0x42300000    # 44.0f
+        0x41900000    # 18.0f
+        0x41f00000    # 30.0f
+        0x41000000    # 8.0f
+        0x0
+        0x40800000    # 4.0f
+        0x40e00000    # 7.0f
+    .end array-data
+
+    .line 98
+    :array_21
+    .array-data 4
+        0x44480000    # 800.0f  (Storm Dragon - clone Fire Dragon)
         0x423c0000    # 47.0f
         0x41900000    # 18.0f
         0x41f00000    # 30.0f

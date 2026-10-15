@@ -40,7 +40,15 @@
 
 .field public static final DRAGON_NAME_19_SWAMP:Ljava/lang/String; = "Swamp dragon"
 
-.field public static final DRAGON_UNIT_RACE_NUMBER:I = 0x4
+.field public static final DRAGON_NAME_20_EARTH:Ljava/lang/String; = "Earth Dragon"
+
+.field public static final DRAGON_NAME_21_LIGHT:Ljava/lang/String; = "Light Dragon"
+
+.field public static final DRAGON_NAME_22_POISON:Ljava/lang/String; = "Poison Dragon"
+
+.field public static final DRAGON_NAME_23_STORM:Ljava/lang/String; = "Storm Dragon"
+
+.field public static final DRAGON_UNIT_RACE_NUMBER:I = 0x8
 
 .field public static final ENEMY_FORMULA:[[I
 
@@ -293,6 +301,14 @@
 .field public static final UNIT_RACE_18_ICE:I = 0x12
 
 .field public static final UNIT_RACE_19_SWAMP:I = 0x13
+
+.field public static final UNIT_RACE_20_EARTH:I = 0x14
+
+.field public static final UNIT_RACE_21_LIGHT:I = 0x15
+
+.field public static final UNIT_RACE_22_POISON:I = 0x16
+
+.field public static final UNIT_RACE_23_STORM:I = 0x17
 
 .field public static final UNIT_RACE_1_CHICK:I = 0x1
 
@@ -575,7 +591,9 @@
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitConstants;->sQuadNames:[Ljava/lang/String;
 
     .line 106
-    new-array v0, v7, [Ljava/lang/String;
+    const/16 v0, 0x8
+
+    new-array v0, v0, [Ljava/lang/String;
 
     .line 107
     const-string v1, "Desert Dragon"
@@ -596,6 +614,34 @@
     const-string v1, "Swamp dragon"
 
     aput-object v1, v0, v3
+
+    .line 111
+    const/4 v1, 0x4
+
+    const-string v2, "Earth Dragon"
+
+    aput-object v2, v0, v1
+
+    .line 112
+    const/4 v1, 0x5
+
+    const-string v2, "Light Dragon"
+
+    aput-object v2, v0, v1
+
+    .line 113
+    const/4 v1, 0x6
+
+    const-string v2, "Poison Dragon"
+
+    aput-object v2, v0, v1
+
+    .line 114
+    const/4 v1, 0x7
+
+    const-string v2, "Storm Dragon"
+
+    aput-object v2, v0, v1
 
     .line 106
     sput-object v0, Lcom/droidhen/fortconquer/units/UnitConstants;->sDragonNames:[Ljava/lang/String;

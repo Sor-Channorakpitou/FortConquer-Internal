@@ -36,7 +36,9 @@
     const/16 v3, -0x28
 
     .line 56
-    new-array v0, v4, [I
+    const/16 v1, 0x18
+
+    new-array v0, v1, [I
 
     const/4 v1, 0x3
 
@@ -101,11 +103,29 @@
 
     aput v3, v0, v1
 
+    const/16 v1, 0x14
+
+    aput v3, v0, v1
+
+    const/16 v1, 0x15
+
+    aput v3, v0, v1
+
+    const/16 v1, 0x16
+
+    aput v3, v0, v1
+
+    const/16 v1, 0x17
+
+    aput v3, v0, v1
+
     .line 56
     sput-object v0, Lcom/droidhen/fortconquer/Calculator$POS$CARD;->X_SHIFT:[I
 
     .line 61
-    new-array v0, v4, [I
+    const/16 v1, 0x18
+
+    new-array v0, v1, [I
 
     const/4 v1, 0x0
 
@@ -179,6 +199,22 @@
     aput v5, v0, v1
 
     const/16 v1, 0x13
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x14
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x15
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x16
+
+    aput v5, v0, v1
+
+    const/16 v1, 0x17
 
     aput v5, v0, v1
 

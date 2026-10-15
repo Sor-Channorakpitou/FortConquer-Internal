@@ -240,7 +240,7 @@
     :goto_0
     iget v0, p0, Lcom/droidhen/fortconquer/units/UnitPart;->mRace:I
 
-    const/16 v1, 0x13
+    const/16 v1, 0x17
 
     if-gt v0, v1, :cond_1
 
@@ -2741,7 +2741,7 @@
     :cond_1
     iget v0, p0, Lcom/droidhen/fortconquer/units/UnitPart;->mRace:I
 
-    const/16 v1, 0x13
+    const/16 v1, 0x17
 
     if-gt v0, v1, :cond_2
 

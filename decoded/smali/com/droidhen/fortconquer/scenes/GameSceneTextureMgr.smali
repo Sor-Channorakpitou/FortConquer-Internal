@@ -2706,7 +2706,7 @@
     invoke-static/range {v0 .. v5}, Lcom/droidhen/fortconquer/scenes/GameSceneTextureMgr;->createCampTextureRegions(Lcom/droidhen/andplugin/PlistTexture;[[[Lorg/anddev/andengine/opengl/texture/region/TextureRegion;[[[Lorg/anddev/andengine/opengl/texture/region/TiledTextureRegion;III)V
 
     .line 320
-    const/4 v0, 0x4
+    const/16 v0, 0x8
 
     const/16 v1, 0x20
 
@@ -2727,7 +2727,7 @@
     sput-object v0, Lcom/droidhen/fortconquer/scenes/GameSceneTextureMgr;->mDragonUnitTR:[[[Lorg/anddev/andengine/opengl/texture/region/TextureRegion;
 
     .line 321
-    const/4 v0, 0x4
+    const/16 v0, 0x8
 
     const/16 v1, 0x20
 
@@ -2757,7 +2757,7 @@
     const/4 v3, 0x2
 
     .line 323
-    const/4 v4, 0x4
+    const/16 v4, 0x8
 
     const/16 v5, 0x20
 
@@ -3224,7 +3224,7 @@
 
     if-lt p0, v2, :cond_1b
 
-    const/16 v2, 0x13
+    const/16 v2, 0x17
 
     if-gt p0, v2, :cond_1b
 

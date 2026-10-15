@@ -605,7 +605,7 @@
 
     aget v7, v7, v8
 
-    add-int/lit8 v7, v7, 0x4
+    add-int/lit8 v7, v7, 0x8
 
     add-int/lit8 v7, v7, -0x1
 
