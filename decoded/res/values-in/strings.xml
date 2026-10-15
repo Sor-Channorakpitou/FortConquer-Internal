@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_google_play_services_wear_update_text">Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri.</string>
+    <string name="common_google_play_services_updating_title">Layanan Google Play sedang diperbarui</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+    <string name="common_google_play_services_network_error_text">Perlu sambungan data untuk tersambung ke layanan Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+    <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s memerlukan layanan Google Play, yang tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapat bantuan.</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s memerlukan satu atau beberapa layanan Google Play yang saat ini tidak tersedia. Hubungi pengembang untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Gagal masuk</string>
+    <string name="common_google_play_services_sign_in_failed_text">Kesalahan saat masuk ke akun yang ditentukan. Pilih akun yang lain.</string>
+    <string name="common_google_play_services_restricted_profile_title">Profil Dibatasi</string>
+    <string name="common_google_play_services_restricted_profile_text">Mengakses akun dari profil yang dibatasi tidak didukung.</string>
+    <string name="common_signin_button_text">Masuk</string>
+    <string name="common_signin_button_text_long">Masuk dengan Google</string>
+    <string name="common_google_play_services_unknown_issue">%1$s kesulitan dengan layanan Google Play. Jika masalah terus berlanjut, hubungi pengembang untuk mendapatkan bantuan.</string>
+    <string name="place_autocomplete_search_hint">Telusuri</string>
+    <string name="place_autocomplete_clear_button">Hapus penelusuran</string>
+    <string name="wallet_buy_button_place_holder">Beli dengan Google</string>
+    <string name="app_name">Penaklukan Benteng</string>
+    <string name="billing_not_supported_title">"Can't make purchases"</string>
+    <string name="billing_not_supported_message">"The Market billing service is not available at this time. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="learn_more">Learn more</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="cannot_connect_title">"Can't connect to Market"</string>
+    <string name="cannot_connect_message">"This app cannot connect to Market. Your version of Market may be out of date. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="guide_select_tap">Ketuk untuk pilih pasukanmu</string>
+    <string name="guide_final_welltrained">Anda sudah terlatih sekarang.</string>
+    <string name="guide_final_fight">Mari berjuang dan taklukkan benteng kegelapan!</string>
+    <string name="guide_to_local">Mari mulai bertempur!</string>
+    <string name="guide_input_name">"Selamat Datang di dunia Penaklukan Benteng. 
+Ketuk panel untuk memasukkan nama Anda."</string>
+    <string name="guide_need_energy">"Anda butuh energy 
+untuk bermain di Arena.
+Energi pulih seiring waktu."</string>
+    <string name="guide_to_arena">"Selamat Datang di dunia 
+Penaklukan Benteng. Ketuk panel 
+untuk memasukkan nama Anda."</string>
+    <string name="status_input_title">Please input your name</string>
+    <string name="status_input_welcome">Selamat Datang Kembali</string>
+    <string name="status_won">Menang: %1$s</string>
+    <string name="status_lose">Kalah: %1$s</string>
+    <string name="arena_unlock">"Arena akan terbuka setelah
+ babak 5"</string>
+    <string name="arena_loading">Memuat...</string>
+    <string name="arena_net_err">Jaringan bermasalah</string>
+    <string name="arena_no_rival">No rival matched</string>
+    <string name="arena_lose_tip">"Always lose? Get more powerful cards 
+by conquering more LOCAL stages!"</string>
+    <string name="evolve_select_tip">Pilih 3 kartu yang sama untuk berevolusi.</string>
+    <string name="shop_refresh_tip">"Lebih banyak kartu tersedia 
+setelah babak %1$s"</string>
+    <string name="comfirm_remark_unlock">"Slot tersedia: %1$s
+Berikutnya: %2$s"</string>
+    <string name="comfirm_remark_stope">"Tambang: %1$s batu/menit
+Berikutnya: %2$s batu/menit"</string>
+    <string name="comfirm_remark_stope_max">"Tambang telah mencapai 
+level maksimum"</string>
+    <string name="comfirm_remark_fort">"HP: %1$s
+Berikutnya: %2$s"</string>
+    <string name="comfirm_remark_fort_max">"Dinding kota telah 
+mencapai level maksimum"</string>
+    <string name="comfirm_remark_sell">Ingin jual kartu ini?</string>
+    <string name="comfirm_remark_sell_last">"Tidak boleh menjual 
+kartu terakhir Anda"</string>
+    <string name="comfirm_remark_buy">Ingin beli kartu ini?</string>
+    <string name="comfirm_remark_buy_pack">Ingin beli paket kartu ini?</string>
+    <string name="comfirm_remark_buy_max">"Tidak boleh membawa 
+lebih dari 40 kartu."</string>
+    <string name="comfirm_remark_energy">"No enough energy, use 
+crystals to refill now?"</string>
+    <string name="select_stope_speed">%1$s/menit</string>
+    <string name="upgrade_fort_max">Dinding kota telah mencapai level maksimum</string>
+    <string name="upgrade_stope_max">Tambang telah mencapai level maksimum</string>
+    <string name="upgrade_cur_level">Level %1$s</string>
+    <string name="upgrade_cur_hp">HP: %1$s</string>
+    <string name="upgrade_next_hp">Level berikut: %1$s</string>
+    <string name="upgrade_cur_stope">%1$s batu/menit</string>
+    <string name="upgrade_next_stope">Level berikut: %1$s batu/menit</string>
+    <string name="upgrade_require">Lewati babak %1$s untuk perbarui</string>
+    <string name="upgrade_cost">Harga%1$s</string>
+    <string name="complete_bonus_kill">Bonus Membunuh:</string>
+    <string name="complete_bonus_life">Bonus Nyawa:</string>
+    <string name="complete_bonus_stage">Bonus Babak:</string>
+    <string name="complete_bonus_total">Total:</string>
+    <string name="complete_bonus_lost">Bonus:</string>
+    <string name="info_top">Saat menang, hadiah Kristal adalah (babak %1$s-%2$s)</string>
+    <string name="info_bottom">Saat kalah, kemungkinan hadiah Kristal meningkat</string>
+    <string name="info_bottom2">seiring dengan kelangsungan nyawa Anda.</string>
+    <string name="info_reward">Hadiah</string>
+    <string name="dragon_welldone">Bagus!</string>
+    <string name="dragon_detail">"Bukankah naga adalah pembunuh 
+paling mengerikan? Mereka dapat 
+membantai musuhnya secara 
+massal dengan sekali serang. 
+Sekarang Anda punya naga api, 
+mari berantas musuh!"</string>
+    <string name="common_cost_s">Harga%1$s</string>
+    <string name="common_for_s">Harga%1$s</string>
+    <string name="common_hp">HP</string>
+    <string name="common_lv_dot_s">Lv.%1$s</string>
+    <string name="common_coins">Koin</string>
+    <string name="common_crystals">Kristal</string>
+    <string name="common_level">Level</string>
+</resources>

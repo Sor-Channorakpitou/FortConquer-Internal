@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/moreProcessProgressBar" android:background="@color/background" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/moreContent" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:id="@id/title" android:background="@drawable/title_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dp" android:src="@drawable/title" />
+        </LinearLayout>
+        <RelativeLayout android:id="@id/navigation_region" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@id/title">
+            <LinearLayout android:id="@id/navigation_tab" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <Button android:textStyle="bold" android:textColor="@color/app_categray_color" android:id="@id/tabButton1" android:background="@drawable/button_style" android:paddingTop="12.0dp" android:paddingBottom="12.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <Button android:textStyle="bold" android:textColor="@color/tab_name_color" android:id="@id/tabButton2" android:background="@drawable/button_style" android:paddingTop="12.0dp" android:paddingBottom="12.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <Button android:textStyle="bold" android:textColor="@color/tab_name_color" android:id="@id/tabButton3" android:background="@drawable/button_style" android:paddingTop="12.0dp" android:paddingBottom="12.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <Button android:textStyle="bold" android:textColor="@color/tab_name_color" android:id="@id/tabButton4" android:background="@drawable/button_style" android:paddingTop="12.0dp" android:paddingBottom="12.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            </LinearLayout>
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignBottom="@id/navigation_tab">
+                <LinearLayout android:background="@drawable/line" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:id="@id/tabLine1" android:background="@drawable/line_selected" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                    <LinearLayout android:id="@id/tabLine2" android:background="@drawable/line_selected" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                    <LinearLayout android:id="@id/tabLine3" android:background="@drawable/line_selected" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                    <LinearLayout android:id="@id/tabLine4" android:background="@drawable/line_selected" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+        <android.support.v4.view.ViewPager android:id="@id/pager" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@id/navigation_region" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/moreConnectionLost" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:id="@id/connectionLostImageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/no_connection" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="26.0dp" android:textColor="@color/app_categray_color" android:id="@id/connectionLostTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dp" android:text="@string/no_connection" android:layout_below="@id/connectionLostImageView" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/moreNoAds" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:id="@id/noAdsImageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/no_game" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="26.0dp" android:textColor="@color/app_categray_color" android:id="@id/noAdsTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dp" android:text="@string/no_ads" android:layout_below="@id/noAdsImageView" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/moreThanks" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:id="@id/thanksImageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/thanks" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="19.0dp" android:textColor="@color/app_categray_color" android:id="@id/thanksTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dp" android:text="@string/thanks" android:layout_below="@id/thanksImageView" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

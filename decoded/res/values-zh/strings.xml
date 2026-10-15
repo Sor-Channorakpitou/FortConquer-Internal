@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_content">我正在我的%2$s上玩 %1$s, %3$s</string>
+    <string name="share_content_score">我正在我的%2$s上玩%1$s，得了 %4$s分 , %3$s</string>
+    <string name="share_content_score_mode">我正在我的%2$s上玩%1$s的%5$s模式，得了%4$s分 , %3$s</string>
+    <string name="share_content_level">我在我的%2$s上通过了%1$s的%4$s, %3$s</string>
+    <string name="share_content_level_mode">我在我的%2$s上通过了%1$s的%5$s模式下的%4$s, %3$s</string>
+    <string name="share_mcity">我的 %1$s, %3$s</string>
+</resources>

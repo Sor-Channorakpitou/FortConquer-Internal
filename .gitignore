@@ -1,0 +1,33 @@
+# ── Build outputs ────────────────────────────────────────────
+*.apk
+*.apk.idsig
+*.aab
+
+# ── Signing artifacts ─────────────────────────────────────────
+*.keystore
+*.jks
+
+# ── APK tool / Java runtime bundled locally ───────────────────
+apktool.jar
+apktool.bat
+jre/
+jadx-gui-*.exe
+lib/
+
+# ── Backup / temp files ───────────────────────────────────────
+*.backup
+*.tmp
+*.bak
+
+# ── APKTool intermediate build folder ────────────────────────
+decoded/build/
+
+# ── OS junk ───────────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── IDE / editor ──────────────────────────────────────────────
+.idea/
+*.iml
+.vscode/

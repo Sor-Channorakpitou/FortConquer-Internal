@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="offerwall_accept_success">Accept success</string>
+    <string name="offerwall_accept_fail">Already accepted</string>
+    <string name="offerwall_accept_hint">Thanks! You will get rewards shortly</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="share_content">Playing %1$s on my %2$s, %3$s</string>
+    <string name="share_content_score">I scored %4$s in %1$s on my %2$s, %3$s</string>
+    <string name="share_content_score_mode">I scored %4$s in %5$s of %1$s on my %2$s, %3$s</string>
+    <string name="share_content_level">I have finished %4$s in %1$s on my %2$s, %3$s</string>
+    <string name="share_content_level_mode">I have finished %4$s in %5$s of %1$s on my %2$s, %3$s</string>
+    <string name="no_connection">Connection failed</string>
+    <string name="no_ads">No games yet</string>
+    <string name="thanks">New games are coming soon!</string>
+    <string name="no_android_market">"Can't find Google Play Store."</string>
+    <string name="share_mcity">My %1$s, %3$s</string>
+    <string name="app_name">Fort Conquer</string>
+    <string name="billing_not_supported_title">"Can't make purchases"</string>
+    <string name="billing_not_supported_message">"The Market billing service is not available at this time. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="learn_more">Learn more</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="cannot_connect_title">"Can't connect to Market"</string>
+    <string name="cannot_connect_message">"This app cannot connect to Market. Your version of Market may be out of date. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="guide_select_tap">Tap to select your troop</string>
+    <string name="guide_final_welltrained">You are well trained now. Come on!</string>
+    <string name="guide_final_fight">"Let's fight and conquer the dark fort!"</string>
+    <string name="guide_to_local">Let’s start a fight!</string>
+    <string name="guide_input_name">"Welcome to the world of Fort Conquer!
+First of all, tap the panel to input your name."</string>
+    <string name="guide_need_energy">"You need energy to 
+play in Arena. 
+Energy recovers with time."</string>
+    <string name="guide_to_arena">"Congrats!
+Arena mode is unlocked.
+You can challenge players all
+over the world."</string>
+    <string name="status_input_title">Please input your name</string>
+    <string name="status_input_welcome">Welcome back</string>
+    <string name="status_won">Won: %1$s</string>
+    <string name="status_lose">Lost: %1$s</string>
+    <string name="arena_unlock">"Arena will be unlocked 
+after stage 5"</string>
+    <string name="arena_loading">Loading...</string>
+    <string name="arena_net_err">Network error</string>
+    <string name="arena_no_rival">No rival matched</string>
+    <string name="arena_lose_tip">"Always lose? Get more powerful cards 
+by conquering more LOCAL stages!"</string>
+    <string name="evolve_select_tip">Select 3 cards of the same kind to evolve</string>
+    <string name="shop_refresh_tip">"More powerful cards will be
+available after stage %1$s"</string>
+    <string name="comfirm_remark_unlock">"Available Slots: %1$s
+Next: %2$s"</string>
+    <string name="comfirm_remark_stope">"Stope: %1$s Stones/Minute
+Next: %2$s Stones/Minute"</string>
+    <string name="comfirm_remark_stope_max">"Stope has reached 
+maximum level"</string>
+    <string name="comfirm_remark_fort">"HP: %1$s
+Next: %2$s"</string>
+    <string name="comfirm_remark_fort_max">"City wall has reached 
+maximum level"</string>
+    <string name="comfirm_remark_sell">"Do you really want to 
+sell this card?"</string>
+    <string name="comfirm_remark_sell_last">"You can not sell 
+your last card"</string>
+    <string name="comfirm_remark_buy">"Do you want to 
+buy this card?"</string>
+    <string name="comfirm_remark_buy_pack">"Do you want to 
+buy this card pack?"</string>
+    <string name="comfirm_remark_buy_max">"You can not carry
+more than 40 cards."</string>
+    <string name="comfirm_remark_energy">"No enough energy, use 
+crystals to refill now?"</string>
+    <string name="select_stope_speed">%1$s/Min</string>
+    <string name="upgrade_fort_max">City wall has reached maximum level</string>
+    <string name="upgrade_stope_max">Stope has reached maximum level</string>
+    <string name="upgrade_cur_level">Level %1$s</string>
+    <string name="upgrade_cur_hp">HP: %1$s</string>
+    <string name="upgrade_next_hp">Next Level HP: %1$s</string>
+    <string name="upgrade_cur_stope">%1$s Stones/Min</string>
+    <string name="upgrade_next_stope">Next Level: %1$s Stones/Min</string>
+    <string name="upgrade_require">Require stage %1$s to upgrade</string>
+    <string name="upgrade_cost">Cost%1$s</string>
+    <string name="complete_bonus_kill">Kill Bonus:</string>
+    <string name="complete_bonus_life">Life Bonus:</string>
+    <string name="complete_bonus_stage">Stage Bonus:</string>
+    <string name="complete_bonus_total">Total:</string>
+    <string name="complete_bonus_lost">Bonus:</string>
+    <string name="info_top">When win, crystal reward is (stage %1$s-%2$s)</string>
+    <string name="info_bottom">When lose, chances of crystal reward</string>
+    <string name="info_bottom2">increase by your survival time.</string>
+    <string name="info_reward">Reward</string>
+    <string name="dragon_welldone">Well Done!</string>
+    <string name="dragon_detail">"Isn't dragon the most dreadful
+death-striker? They mass slaughter
+enemies with one firing. Now you
+have a fire dragon. Let's wipe the
+enemies out!"</string>
+    <string name="common_cost_s">Cost%1$s</string>
+    <string name="common_for_s">For%1$s</string>
+    <string name="common_hp">HP</string>
+    <string name="common_lv_dot_s">Lv.%1$s</string>
+    <string name="common_coins">Coins</string>
+    <string name="common_crystals">Crystals</string>
+    <string name="common_level">Level</string>
+    <string name="new_game">New Game</string>
+    <string name="free_download">Get</string>
+    <string name="later">Later</string>
+    <string name="download_and_play">"Free download and play it,
+reward:"</string>
+</resources>

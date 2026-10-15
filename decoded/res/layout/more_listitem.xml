@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:padding="10.799988dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/moreExchangeListitemAppIcon" android:layout_width="49.0dp" android:layout_height="49.0dp" android:src="@drawable/app_icon" android:scaleType="fitXY" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dp" android:src="@drawable/app_more_icon" android:layout_alignBottom="@id/moreExchangeListitemAppIcon" android:layout_alignParentRight="true" />
+    <RelativeLayout android:id="@id/moreExchangeListitemAppPriceRegion" android:background="@drawable/free" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+        <TextView android:textSize="9.0dp" android:textStyle="bold" android:textColor="@color/app_price_color" android:id="@id/moreExchangeListitemAppPrice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dp" android:layout_toLeftOf="@id/moreExchangeListitemAppPriceRegion" android:layout_toRightOf="@id/moreExchangeListitemAppIcon" android:layout_alignBottom="@id/moreExchangeListitemAppIcon">
+        <TextView android:textSize="16.0dp" android:textStyle="bold" android:textColor="@color/app_name_color" android:ellipsize="end" android:id="@id/moreExchangeListitemAppName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="3.0dp" android:singleLine="true" />
+        <TextView android:textSize="12.0dp" android:textStyle="bold" android:textColor="@color/app_vendor_color" android:ellipsize="end" android:id="@id/moreExchangeListitemAppVendor" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</RelativeLayout>
